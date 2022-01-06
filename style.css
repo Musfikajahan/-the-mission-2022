@@ -130,7 +130,8 @@ p{
 .header-font-last-one
 {
 color:red;
-font-style:italic;
+font-style:italic; 
+font: size 30px; ;
 
 }
 .header-font-last
